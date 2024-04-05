@@ -5,6 +5,6 @@
   distribution = "2201.3.1"
   export = ["teststage"]
   name = "teststage"
-  org = "nilukaswso2"
+  org = "nilukaprod2024"
   version = "0.1.0"
 
